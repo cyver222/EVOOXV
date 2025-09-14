@@ -1,7 +1,0 @@
-requests
-tqdm
-jinja2
-python-magic
-pillow
-pytesseract
-hashlib
