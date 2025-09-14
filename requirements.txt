@@ -1,0 +1,9 @@
+requests
+colorama
+prettytable
+pillow
+pytesseract
+python-magic
+PyPDF2
+python-docx
+pefile
